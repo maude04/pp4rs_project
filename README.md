@@ -13,7 +13,7 @@ Following the Russo-Ukrainian war, the Federal Reserve Bank in the United States
   
 ## Setup of the environment:
 
-To run this project, you will to install the corresponding dependencies. You can either clone the environment or install the dependencies manually.
+To run this project, you will have to to install the corresponding dependencies. You can either clone the environment or install the dependencies manually.
 
 To clone [the environment](envs/env_pp4rs_project.yaml), run this command in the terminal in the folder of the project:
 
@@ -31,7 +31,6 @@ python -m ipykernel install --user --name=env_pp4rs_project
 
 pip install numpy
 pip install pandas
-#pip install jupyter
 pip install matplotlib
 pip install scipy
 pip install statsmodels
