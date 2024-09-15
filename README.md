@@ -7,9 +7,11 @@ Following the Russo-Ukrainian war, the Federal Reserve Bank in the United States
 1. **FRED**:
    - variable: US interest rates
    - Source: [FRED.org](https://fred.stlouisfed.org/series/FEDFUNDS)
+   - Download method: API
 2. **World Bank**:
    - variables: Region, income group, currency composition of debt, external debt stock (% of GNI), external debt stock (current US$), GNI per capita, GNI, exchange rate, population
    - Sources: [International debt statistics](https://databank.worldbank.org/source/international-debt-statistics#), [World development indicators](https://databank.worldbank.org/source/world-development-indicators), [Country classification income](https://blogs.worldbank.org/en/opendata/new-world-bank-group-country-classifications-income-level-fy24)
+   - Download method: manual
   
 ## Setup of the environment:
 
